@@ -1,0 +1,5 @@
+UniversalRoyalCoin-qt usr/bin
+share/pixmaps/UniversalRoyalCoin32.xpm usr/share/pixmaps
+share/pixmaps/UniversalRoyalCoin80.xpm usr/share/pixmaps
+debian/UniversalRoyalCoin-qt.desktop usr/share/applications
+debian/UniversalRoyalCoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,11 @@
+[Unit]
+Description=UniversalRoyalCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=UniversalRoyalCoin
+ExecStart=/opt/UniversalRoyalCoin/UniversalRoyalCoind
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,2 @@
+debian/bin/UniversalRoyalCoind usr/bin
+src/UniversalRoyalCoind usr/lib/UniversalRoyalCoin

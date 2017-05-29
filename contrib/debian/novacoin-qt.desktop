@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UniversalRoyalCoin
+Comment=UniversalRoyalCoin P2P Cryptocurrency
+Comment[ru]=UniversalRoyalCoin, P2P криптовалюта
+Comment[fr]=UniversalRoyalCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=UniversalRoyalCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/UniversalRoyalCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/UniversalRoyalCoin80.xpm
+MimeType=x-scheme-handler/UniversalRoyalCoin;
+Categories=Office;
